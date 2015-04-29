@@ -17,4 +17,4 @@ git clone https://bitbucket.org/lbuzzo/vim-drupal-field-export.git
 ```
 
 ## Usage ##
-In normal mode, place the cursor over the machine name of a Drupal field and execute the command :call `DrupalExportField()`, this will replace the machine name with valid php export code.
+In normal mode, place the cursor over the machine name of a Drupal field and execute the command `:call DrupalExportField()`, this will replace the machine name with valid php export code.
