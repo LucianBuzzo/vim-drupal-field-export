@@ -3,7 +3,7 @@ This plugin pretty prints php code for programatically creating fields and field
 
 ## Requirements ##
 The module requires that you have drush installed and are executing the function within a drupal installation directory.
-Installation has only been tested using [pathogen][https://github.com/tpope/vim-pathogen].
+Installation has only been tested using [pathogen](https://github.com/tpope/vim-pathogen).
 
 ## Installation ##
 To install this plugin with pathogen, run the following in a terminal:
